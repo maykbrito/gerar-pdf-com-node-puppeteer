@@ -1,0 +1,18 @@
+{
+  "name": "gerar-pdf",
+  "version": "1.0.0",
+  "description": "* [] Pq eu preciso exportar um PDF? * [] Existem outras ferramentas? * [] Pq eu vou usar o NodeJS?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "html-pdf": "^2.2.0",
+    "puppeteer": "^7.1.0"
+  }
+}
